@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physiotherapy , Pontifical Catholic University of Minas Gerais, 2019
+* M.S. in Neuroengineering, Santos Dumont Insitute - Edmond and Lily Safra International Institute of Neurosciences, 2014
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
