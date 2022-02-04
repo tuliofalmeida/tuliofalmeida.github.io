@@ -1,4 +1,22 @@
 ---
+layout: single
+title: CURRICULUM VITAE
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
+excerpt: |
+  <br>
+
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<embed src="https://tuliofalmeida.github.io/files/Tulio_CV.pdf" width="500" height="500" type='application/pdf'>
+
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -15,7 +33,7 @@ Education
 * M.S. in Neuroengineering, Santos Dumont Insitute - Edmond and Lily Safra International Institute of Neurosciences, 2014
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ --> -->
