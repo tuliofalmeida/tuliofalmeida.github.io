@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Túlio Almeida"
 title_separator          : "-"
 name                     : &name "Túlio Almeida"
-description              : &description "Research scientist at Edmond and Lily Safra International Institute of Neurosciences "
+description              : &description "Tulio's Personal Website"
 url                      : https://tuliofalmeida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tuliofalmeida/tuliofalmeida.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Túlio Almeida"
   avatar           : "profile.png"
-  bio              : "Master in Neuroengineering. Interest in neurosciences and artificial intelligence."
+  bio              : "Master in Neuroengineering"
   location         : "Macaíba"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
