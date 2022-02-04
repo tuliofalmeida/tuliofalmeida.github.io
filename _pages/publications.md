@@ -1,8 +1,16 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: single
+title: Curriculum Vitae
+header:
+  overlay_image: mineirao.png
+  overlay_filter: 0.3
+excerpt: |
+  <br>
+
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% if author.googlescholar %}

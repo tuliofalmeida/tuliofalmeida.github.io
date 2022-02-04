@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CURRICULUM VITAE
+title: Curriculum Vitae
 header:
   overlay_image: mineirao.png
   overlay_filter: 0.3
@@ -75,4 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
- --> -->
+ --> 
