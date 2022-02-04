@@ -2,7 +2,7 @@
 layout: single
 title: CURRICULUM VITAE
 header:
-  overlay_image: header_image.jpg
+  overlay_image: mineirao.jpeg
   overlay_filter: 0.3
 excerpt: |
   <br>
