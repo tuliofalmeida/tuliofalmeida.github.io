@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 header:
   overlay_image: mineirao.png
