@@ -3,7 +3,7 @@ permalink: /
 title: <br>
 layout: single
 header:
-  overlay_image: mineirao.jpeg
+  overlay_image: mineirao.png
   overlay_filter: 0.3
 author_profile: true
 redirect_from: 
