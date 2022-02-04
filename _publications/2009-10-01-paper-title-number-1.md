@@ -1,15 +1,32 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: PUBLICATIONS
+excerpt: |
+  <br>
+header:
+  overlay_image: https://tuliofalmeida.github.io/images/mineirao.png
+  overlay_filter: 0.3
+permalink: /publications/
+author_profile: false
+share: true
 ---
-This paper is about the number 1. The number 2 is left for future work.
+{% include base_path %}
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+You can also find my publications at <a href="https://scholar.google.com.br/citations?user=kkOy-JkAAAAJ&hl=en&oi=ao">Google Scholar</a>
+and <a href="https://www.researchgate.net/profile/Tulio-De-Almeida">Researchgate</a>. Feel free to tweet/email if you can't find a PDF.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+<!--- below converts page to collection --->
+<!---
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+--->
+
+* <b>Almeida, TF.</b>, Morya, E., Rodrigues, AC., Dantas, AFOA. [Development of a Low-Cost Open-Source Measurement System for Joint Angle Estimation.](https://doi.org/10.3390/s21196477) Sensors (2021).
+ 
+
+
+
+  
+  
