@@ -218,13 +218,13 @@ defaults:
   # _portfolio
 
   # _talks
-   - scope:
-       path: ""
-       type: talks
-     values:
-       layout: single
-       author_profile: true
-       share: true
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
