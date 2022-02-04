@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  https://tuliofalmeida.github.io/files/mineirao.png # Open Graph/Twitter default site image
+og_image                 :  https://tuliofalmeida.github.io/images/mineirao.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Túlio Almeida"
-  avatar           : "pic.jpg"
+  avatar           : "https://tuliofalmeida.github.io/images/pic.jpg"
   bio              : "Master in Neuroengineering"
-  location         : "Macaíba"
+  location         : "Macaíba, RN, Brazil"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=kkOy-JkAAAAJ&hl=en&oi=ao"
