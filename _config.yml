@@ -176,8 +176,10 @@ kramdown:
 
 # Collections
 collections:
-
   publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
