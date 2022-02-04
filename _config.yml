@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : Túlio Almeida # If the user or organization name differs from the site's name
-  links:
+  links: 
 # An array of links to social media profiles
 
 
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Túlio Almeida"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master in Neuroengineering. Interest in neurosciences and artificial intelligence."
   location         : "Macaíba"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CET # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
