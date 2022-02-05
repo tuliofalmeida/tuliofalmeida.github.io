@@ -1,6 +1,6 @@
 ---
 layout: single
-title: JAMA device
+title: "JAMA device"
 excerpt: Joint Angle Measurement and Acquisition device
 header:
   teaser: jama_logo.png
