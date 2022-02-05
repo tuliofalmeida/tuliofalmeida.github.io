@@ -7,7 +7,7 @@ header:
 collection: project
 author_profile: true
 share: true
-----
+---
 
 ### JAMA - Joint Angle Measurement and Acquisition device
 ----------------------------------------------------
