@@ -19,3 +19,5 @@ Python for Joint Angle Measurement and Acquisition (PyJAMA) open access project 
 - Example of using the library associeted with JAMA. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuliofalmeida/pyjama/blob/main/PyJama_JAMA_exemple.ipynb)      
 - Example of using JAMA in a real situation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuliofalmeida/pyjama/blob/main/PyJama_JAMA_practical_test_.ipynb)      
 - Example of using the library using data extracted using Vicon and Xsens. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuliofalmeida/pyjama/blob/main/Pyjama_total_capture.ipynb) 
+
+![Pyjama_logo](https://github.com/tuliofalmeida/tuliofalmeida.github.io/blob/master/images/pyjama_logo.png)
