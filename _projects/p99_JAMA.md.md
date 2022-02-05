@@ -11,7 +11,7 @@ layout: splash
 ----
 
 <p align="center">
-  <img width="900" height="300" src="jama_logo.png">
+  <img width="450" height="150" src="jama_logo.png">
 </p>
 
 # JAMA - Joint Angle Measurement and Acquisition device
