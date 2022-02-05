@@ -9,6 +9,7 @@ excerpt: |
 
 permalink: /cv/
 author_profile: true
+share: true
 redirect_from:
   - /resume
 ---
