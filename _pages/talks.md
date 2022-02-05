@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Presentations"
+title: "Talks"
 header:
   overlay_image: mineirao.png
   overlay_filter: 0.3
