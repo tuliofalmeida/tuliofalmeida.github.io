@@ -7,7 +7,6 @@ header:
 collection: project
 author_profile: true
 share: true
-layout: splash
 ----
 
 # JAMA - Joint Angle Measurement and Acquisition device
