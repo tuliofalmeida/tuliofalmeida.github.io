@@ -216,14 +216,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# comps collection documentation
-  - scope:
-      path: ""
-      type: comps-collection
-    values:
-      layout: single
-      author_profile: false
-      share: false
   # _talks
    - scope:
        path: ""
