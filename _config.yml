@@ -207,8 +207,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-
   # _publications
   - scope:
       path: ""
@@ -226,8 +224,6 @@ defaults:
       layout: single
       author_profile: false
       share: false
-  # _portfolio
-
   # _talks
    - scope:
        path: ""
