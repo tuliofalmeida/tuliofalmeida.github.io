@@ -224,15 +224,14 @@ defaults:
        layout: single
        author_profile: true
        share: true
-# comps collection documentation
-  - scope:
-      path: ""
-      type: comps-collection
+  # _comps collection documentation
+   - scope:
+       path: ""
+       type: comps-collection
     values:
-      layout: single
-      author_profile: false
-      share: false
-
+       layout: single
+       author_profile: false
+       share: false
 
 # Sass/SCSS
 sass:
