@@ -1,6 +1,6 @@
 ---
-title: Projects
-excerpt: Projects I've worked on (or that I'm still working on)
+title: PROJECTS
+excerpt: Things I’ve worked on (or still working on)
 layout: collection
 header:
   overlay_image: mineirao.png
