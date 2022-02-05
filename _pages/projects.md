@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: Projects
 excerpt: Projects I've worked on (or that I'm still working on)
 layout: collection
 header:
