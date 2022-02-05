@@ -3,7 +3,7 @@ layout: single
 title: JAMA device
 excerpt: Joint Angle Measurement and Acquisition device
 header:
-  teaser: bert.jpg
+  teaser: jama_logo.png
 collection: project
 author_profile: true
 share: true
