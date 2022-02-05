@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Talks and presentations"
+title: "Presentations"
 header:
   overlay_image: mineirao.png
   overlay_filter: 0.3
@@ -15,4 +15,4 @@ redirect_from:
 
 {% include base_path %}
 
-I intend to post here some talks in the near future!
+I intend to post here some presentations in the near future!
