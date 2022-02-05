@@ -3,16 +3,12 @@ layout: single
 title: JAMA device
 excerpt: Joint Angle Measurement and Acquisition device
 header:
-  teaser: jama_logo.png
+  teaser: bert.jpg
 collection: project
 author_profile: true
 share: true
 layout: splash
 ----
-
-<p align="center">
-  <img width="450" height="150" src="jama_logo.png">
-</p>
 
 # JAMA - Joint Angle Measurement and Acquisition device
 ----------------------------------------------------
