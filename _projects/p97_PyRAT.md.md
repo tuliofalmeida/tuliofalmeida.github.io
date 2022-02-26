@@ -9,9 +9,9 @@ author_profile: true
 share: true
 ---
 
-Python in Rodent Analysis and Tracking (PyRat) is a user friendly library in python to analyze data from the DeepLabCut. Developed to help researchers unfamiliar with programming can perform animal behavior analysis more simpler.
+![pyrat](https://raw.githubusercontent.com/tuliofalmeida/tuliofalmeida.github.io/master/images/pyrat_logo.png)
 
-![PYRAT](pyrat_logo.png)
+Python in Rodent Analysis and Tracking (PyRat) is a user friendly library in python to analyze data from the DeepLabCut. Developed to help researchers unfamiliar with programming can perform animal behavior analysis more simpler.
 
 ### Examples of usage
 
