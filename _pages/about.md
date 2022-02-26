@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 ## Hello World!
-I'm a neuroengineer enthusiastic about computer vision, machine learning and open-source softwares.
+I'm a neuroengineer enthusiastic about neuroscience, computer vision, machine learning and open-source softwares.
 My general research interests include associate artificial intelligence with neural data processing. Check out some of the 
 [projects](https://tuliofalmeida.github.io/projects/) I've been working on or [follow me](https://twitter.com/tuliofalmeida) on twitter!
  
