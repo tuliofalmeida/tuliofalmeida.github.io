@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Túlio Almeida"
-title_separator          : ""
+title                    : "úlio Almeida"
+title_separator          : "T"
 name                     : &name "Túlio Almeida"
 description              : &description "Tulio's Personal Website"
 url                      : https://tuliofalmeida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
