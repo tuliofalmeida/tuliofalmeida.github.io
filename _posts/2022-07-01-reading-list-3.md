@@ -51,7 +51,7 @@ Books I read in 2020
 40. [A batalha do apocalipse][40]
 41. [Filhos do Eden - Herdeiros de Atlântida][41]
 
-
+Lists from other years: [2018][list1], [2019][list2], [2021][list4], [2022][list5].
 
 [1]:https://www.amazon.com/Learn-Earn-Beginners-Basics-Investing-ebook/dp/B008TRUA7Y/ref=sr_1_3?crid=35KN3UK288N1F&keywords=peter+lynch&qid=1656705781&s=digital-text&sprefix=peter+lynch%2Cdigital-text%2C189&sr=1-3
 [2]:https://www.amazon.com/gp/product/B07MZGKTFR/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
@@ -94,3 +94,9 @@ Books I read in 2020
 [39]:https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=sr_1_1?crid=TCNVLA7V8M5P&keywords=feynman&qid=1656707119&s=books&sprefix=feynma%2Cstripbooks-intl-ship%2C151&sr=1-1
 [40]:https://www.amazon.com/batalha-do-Apocalipse-Portuguese-ebook/dp/B00A3CSWOQ/ref=sr_1_1?crid=1MDZEDQS7VFO5&keywords=a+batalha+do+apocalipse&qid=1656707150&s=books&sprefix=a+batalha+do+apocalips%2Cstripbooks-intl-ship%2C141&sr=1-1
 [41]:https://www.amazon.com/Herdeiros-Atl%C3%A2ntida-Filhos-%C3%89den-Portuguese-ebook/dp/B00AHEHOOY/ref=sr_1_1?crid=DF0BN9L6TAHT&keywords=filhos+do+eden+-+herdeiros+de+atlantida&qid=1656707188&s=books&sprefix=filhos+do+eden+-+herdeiros+de+atl%C3%A2ntida%2Cstripbooks-intl-ship%2C140&sr=1-1
+
+[list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
+[list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
+[list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
+[list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
+[list5]:https://tuliofalmeida.com/posts/2022/12/list-5/

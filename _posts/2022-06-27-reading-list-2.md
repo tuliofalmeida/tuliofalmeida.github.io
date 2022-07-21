@@ -26,7 +26,7 @@ Books I read in 2019
 15. [Think and grow rich][15]
 16. [Secrets of the Millionaire Mind][16]
 
-
+Lists from other years: [2018][list1], [2020][list3], [2021][list4], [2022][list5].
 
 [1]:https://www.amazon.com/Ostra-feliz-n%C3%A3o-p%C3%A9rola-Portuguese-ebook/dp/B09BRF7Q7Q/ref=sr_1_1?qid=1656359787&refinements=p_27%3ARubem+Alves&s=digital-text&sr=1-1&text=Rubem+Alves
 [2]:https://www.amazon.com/Soccer-Sun-Shadow-Eduardo-Galeano/dp/1645030377/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
@@ -44,3 +44,9 @@ Books I read in 2019
 [14]:https://www.amazon.com/Think-Make-Happen-Breakthrough-Discovering-ebook/dp/B007V91872/ref=sr_1_1?crid=1Z4SEBQMTY61F&keywords=anxiety+augusto+cury&qid=1656360247&s=digital-text&sprefix=axiety+augusto+cury%2Cdigital-text%2C149&sr=1-1
 [15]:https://www.amazon.com/Think-Grow-Rich-Original-RevisedTM-ebook/dp/B00VVN4YFW/ref=sr_1_2?crid=3RPOSW2PQNR2V&keywords=Think+and+grow+rich&qid=1656360375&s=digital-text&sprefix=think+and+grow+rich%2Cdigital-text%2C155&sr=1-2
 [16]:https://www.amazon.com/Secrets-Millionaire-Mind-Mastering-Wealth-ebook/dp/B000FCJZ3G/ref=sr_1_1?crid=13PATA74M3AI2&keywords=the+secrets+of+rich+mind&qid=1656360394&s=digital-text&sprefix=the+secrets+of+rich+mind%2Cdigital-text%2C150&sr=1-1
+
+[list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
+[list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
+[list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
+[list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
+[list5]:https://tuliofalmeida.com/posts/2022/12/list-5/

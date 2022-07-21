@@ -45,10 +45,7 @@ Books I read in 2021
 34. [The Elements of Style][34]
 35. [Tradução do Sentimento Alvinegro]
 
-
-
-
-
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2022][list5].
 
 [1]:https://www.amazon.com/Anjos-Morte-Filhos-%C3%89den-Portuguese-ebook/dp/B00EAQUP6Y/ref=sr_1_1?crid=XV7A15NKYQ2H&keywords=Filhos+do+%C3%89den+-+Anjos+da+Morte&qid=1656707589&s=books&sprefix=filhos+do+%C3%A9den+-+anjos+da+morte%2Cstripbooks-intl-ship%2C321&sr=1-1
 [2]:https://www.amazon.com/Para%C3%ADso-perdido-Filhos-%C3%89den-Portuguese-ebook/dp/B0187TP870/ref=sr_1_1?crid=NV8ZXXUELEEZ&keywords=Filhos+do+%C3%89den+-+Para%C3%ADso+Perdido&qid=1656707613&s=books&sprefix=filhos+do+%C3%A9den+-+para%C3%ADso+perdido%2Cstripbooks-intl-ship%2C132&sr=1-1
@@ -84,3 +81,9 @@ Books I read in 2021
 [32]:https://www.amazon.com.br/gp/product/8575424610/ref=dbs_a_def_rwt_bibl_vppi_i1
 [33]:https://www.amazon.com/Noise-Human-Judgment-Daniel-Kahneman/dp/0316451401/ref=sr_1_4?crid=1GU1H6YTGSNSE&keywords=noise&qid=1656709466&sprefix=nois%2Caps%2C215&sr=8-4
 [34]:https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1989862004/ref=sr_1_1?crid=L2FWQOCSX981&keywords=The+Elements+of+Style&qid=1658431536&sprefix=noise%2Caps%2C714&sr=8-1
+
+[list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
+[list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
+[list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
+[list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
+[list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
