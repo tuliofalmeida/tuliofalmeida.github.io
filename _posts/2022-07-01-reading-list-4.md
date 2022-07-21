@@ -83,4 +83,4 @@ Books I read in 2021
 [31]:https://www.amazon.com.br/gp/product/B00GS6LCGQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
 [32]:https://www.amazon.com.br/gp/product/8575424610/ref=dbs_a_def_rwt_bibl_vppi_i1
 [33]:https://www.amazon.com/Noise-Human-Judgment-Daniel-Kahneman/dp/0316451401/ref=sr_1_4?crid=1GU1H6YTGSNSE&keywords=noise&qid=1656709466&sprefix=nois%2Caps%2C215&sr=8-4
-[34]:
+[34]:https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1989862004/ref=sr_1_1?crid=L2FWQOCSX981&keywords=The+Elements+of+Style&qid=1658431536&sprefix=noise%2Caps%2C714&sr=8-1

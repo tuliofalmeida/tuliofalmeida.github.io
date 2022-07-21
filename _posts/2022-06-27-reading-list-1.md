@@ -27,6 +27,7 @@ Books I read in 2018
 16. [A queda][16]
 17. [Mental toughness][17]
 
+List of other years: [2019][list2],[2020][list3],[2021][list4],[2022][list5].
 
 [1]:https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/B082VKY29Q/ref=sr_1_1?crid=EV429XVYUX6T&keywords=tools+of+titans&qid=1656358331&sprefix=tools+of+titan%2Caps%2C141&sr=8-1
 [2]:https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/B082VM5VZN/ref=sr_1_1?crid=2601FE0GVJSGX&keywords=tribe+of+mentors&qid=1656358437&sprefix=tribe+of+entors%2Caps%2C128&sr=8-1
@@ -45,3 +46,9 @@ Books I read in 2018
 [15]:https://www.amazon.com/Norse-Mythology-Neil-Gaiman-ebook/dp/B01HQA6EOC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1656358829&sr=8-8
 [16]:https://www.amazon.com.br/queda-mem%C3%B3rias-pai-424-passos/dp/8501098507/ref=asc_df_8501098507/?tag=googleshopp00-20&linkCode=df0&hvadid=379707362362&hvpos=&hvnetw=g&hvrand=18162080708678518566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101492&hvtargid=pla-811063059531&psc=1
 [17]:https://www.amazon.com/Mental-Toughness-True-Grit-Self-Discipline-ebook/dp/B07P9GJ9JK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1656358927&sr=8-7
+
+[list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
+[list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
+[list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
+[list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
+[list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
