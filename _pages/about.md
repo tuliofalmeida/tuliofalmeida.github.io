@@ -19,7 +19,7 @@ My general research interests include associate artificial intelligence with neu
  
 ## What am I up to?
 
-I will start in the Pre-Doc + PhD program of the Initiative for interdisciplinary research in Biology ([i-Bio](http://ibio.sorbonne-universite.fr/)) of Sorbonne University in October of this year. During the first year I will do rotations in three labs with different projects, and after that continue the development of one of these projects. 
+I will start in the Pre-Doc + PhD program of the Initiative for interdisciplinary research in Biology ([i-Bio](http://ibio.sorbonne-universite.fr/)) of Sorbonne University in October of 2022. During the first year I will do rotations in three labs with different projects, and after that continue the development of one of these projects. 
 
 ## Before PhD
 
