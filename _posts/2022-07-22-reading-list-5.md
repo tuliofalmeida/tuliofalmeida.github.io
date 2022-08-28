@@ -32,7 +32,14 @@ Books I read in 2022
 21. [Seeing][21]
 22. [A Cachorrada Venceu][22]
 23. [Sabotage - Um Bom Lugar][23]
-24. O milagre do horto
+24. [O milagre do horto][24]
+25. [Estação Carandiru][25]
+26. [The Silmarillion][26]
+27. [The Tale of the Children of Húrin][27]
+28. [Beren and Luthien][28]
+29. [Unfinished Tales Of Númenor And Middle-Earth][29]
+30. [Uma Paixao Em Preto E Branco][30]
+
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4].
 
@@ -59,6 +66,13 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [21]:https://www.amazon.com/gp/product/B003T0GBR4?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks&qid=1658434113&sr=1-2
 [22]:https://www.amazon.com.br/Cachorrada-Venceu-Betinho-Marques/dp/6559321762/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=A+cachorrada+venceu&qid=1658434182&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12
 [23]:https://www.amazon.com.br/Sabotage-Bom-Lugar-Toni-C-ebook/dp/B00MI3CS8Y/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=19A91IK0Q1DE3&keywords=Sabotage+-+Um+Bom+Lugar&qid=1658434208&s=books&sprefix=sabotage+-+um+bom+lugar%2Cstripbooks%2C161&sr=1-1
+[24]:https://www.amazon.com.br/Milagredo-Horto-Andre-Fidusi/dp/856994201X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3U19P4K4RFYMW&keywords=o+milagre+do+horto&qid=1661614567&sprefix=o+milagre+do+horto%2Caps%2C245&sr=8-1
+[25]:https://www.amazon.com/Estac%CC%A7a%CC%83o-Carandiru-Portuguese-Drauzio-Varella/dp/8571648972/ref=sr_1_1?crid=W7LIQ0QT7RXF&keywords=esta%C3%A7%C3%A3o+carandiru&qid=1661615770&sprefix=esta%C3%A7%C3%A3o+carandiru%2Caps%2C204&sr=8-1
+[26]:https://www.amazon.com/Silmarillion-Illustrated-J-R-R-Tolkien/dp/0063280779/ref=sr_1_1_sspa?crid=2WZ4IFMGIAQVG&keywords=silmarillion&qid=1661710605&sprefix=silmarillio%2Caps%2C235&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRktWNFE2TVY1WFQmZW5jcnlwdGVkSWQ9QTA4MTkxNDcyS1dSOE1URUhJVEdGJmVuY3J5cHRlZEFkSWQ9QTEwNDYxNTFBN0VDS1FaQzg2T1Amd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+[27]:https://www.amazon.com/Narn-Ch%C3%AEn-H%C3%BArin-Tale-Children/dp/0007246226/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1661710655&sr=8-1
+[28]:https://www.amazon.com/Beren-Luthien-TOLKIEN/dp/0008214190/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1661710714&sr=8-1
+[29]:https://www.amazon.com/Unfinished-N%C3%BAmenor-Middle-earth-J-R-R-Tolkien/dp/0544337999/ref=sr_1_1?crid=2BFFCRC6QRQKB&keywords=unfinished+tales&qid=1661710756&sprefix=unfinished+tale%2Caps%2C197&sr=8-1
+[30]:https://www.amazon.com/Uma-Paixao-Em-Preto-Branco/dp/8573587962/ref=sr_1_1?crid=2H0JUIZMUDA9T&keywords=Uma+Paixao+Em+Preto+E+Branco&qid=1661710803&sprefix=uma+paixao+em+preto+e+branco%2Caps%2C172&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
