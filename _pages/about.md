@@ -19,7 +19,7 @@ My general research interests include associate artificial intelligence with neu
  
 ## What am I up to?
 
-I'm part of the Pre-Doc + PhD program of the Initiative for interdisciplinary research in Biology ([i-Bio](http://ibio.sorbonne-universite.fr/)) of [Sorbonne University](https://www.sorbonne-universite.fr/). I will be doing rotations in three different laboratories at the [Institut de Biologie Paris-Seine](https://www.ibps.sorbonne-universite.fr/en) and the [Institut du Fer à Moulin](https://ifm-institute.org/en/home/) at Sorbonne University:
+I'm part of the Pre-Doc + PhD program of the Initiative for interdisciplinary research in Biology ([i-Bio](http://ibio.sorbonne-universite.fr/)) of [Sorbonne University](https://www.sorbonne-universite.fr/). I will be doing rotations in three different laboratories at the [Institut de Biologie Paris-Seine](https://www.ibps.sorbonne-universite.fr/en) and the [Institut du Fer à Moulin](https://ifm-institute.org/en/home/) at the Sorbonne University:
 
 1. Project title “Leveraging machine learning and neural field modeling to understand the role of REM sleep in emotional memory consolidation and homeostasis”. Supervisors Gabrielle Girardeau (IFM) & Wilten Nicola (University of Calgary)
 2. Project title “Regulation of gene expression coupled to cell growth and division in bacterial adaption processes” Supervisors Bianca Sclavi (Laboratory of Computational and Quantitative Biology, IBPS) & Marco Cosentino Lagomarsino (IFOM foundation, University of Milan)
