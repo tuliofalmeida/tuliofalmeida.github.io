@@ -39,7 +39,14 @@ Books I read in 2022
 28. [Beren and Luthien][28]
 29. [Unfinished Tales Of Númenor And Middle-Earth][29]
 30. [Uma Paixao Em Preto E Branco][30]
-
+31. [The Art of Thinking Clearly][31]
+32. [O Brasil é do Galo!][32]
+33. [Nós Somos do Clube Atlético Mineiro][33]
+34. [Punho Cerrado: A História do Rei][34]
+35. [Moneyball][35]
+36. [Letters to a Young Athlete][36]
+37. [The Bed of Procrustes][37]
+38. [Pale Blue Dot][38]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4].
 
@@ -73,6 +80,14 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [28]:https://www.amazon.com/Beren-Luthien-TOLKIEN/dp/0008214190/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1661710714&sr=8-1
 [29]:https://www.amazon.com/Unfinished-N%C3%BAmenor-Middle-earth-J-R-R-Tolkien/dp/0544337999/ref=sr_1_1?crid=2BFFCRC6QRQKB&keywords=unfinished+tales&qid=1661710756&sprefix=unfinished+tale%2Caps%2C197&sr=8-1
 [30]:https://www.amazon.com/Uma-Paixao-Em-Preto-Branco/dp/8573587962/ref=sr_1_1?crid=2H0JUIZMUDA9T&keywords=Uma+Paixao+Em+Preto+E+Branco&qid=1661710803&sprefix=uma+paixao+em+preto+e+branco%2Caps%2C172&sr=8-1
+[31]:https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693/ref=sr_1_1?keywords=think+clearly&qid=1667135813&qu=eyJxc2MiOiIyLjI0IiwicXNhIjoiMS43MSIsInFzcCI6IjEuODkifQ%3D%3D&sprefix=think+cl%2Caps%2C386&sr=8-1
+[32]:https://www.amazon.com.br/Brasil-Galo-Atl%C3%A9tico-Bicampe%C3%A3o-Brasileiro/dp/6586818095/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3QRAAYHBE5IWT&keywords=o+brasil+%C3%A9+do+galo&qid=1667135873&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=o+brasil+%C3%A9d%2Cstripbooks%2C128&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d
+[33]:https://www.amazon.com.br/N%C3%B3s-Somos-Clube-Atl%C3%A9tico-Mineiro/dp/6586818087/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=TI9XQAD3ZF0T&keywords=nos+somos+o+clube+atletico+mineiro&qid=1667135931&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=nos+somos+o+clube+atletico+mineiro%2Cstripbooks%2C127&sr=1-1
+[34]:https://www.amazon.com.br/Punho-Cerrado-Hist%C3%B3ria-do-Rei/dp/8595300119/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N6SW7FI5QZB7&keywords=punho+cerrado&qid=1667135997&qu=eyJxc2MiOiIwLjk2IiwicXNhIjoiMC44NSIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=punho+cerrado%2Cstripbooks%2C173&sr=1-1
+[35]:https://www.amazon.com.br/Moneyball-Art-Winning-Unfair-Game/dp/0393324818/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SOPSHAZVDG79&keywords=Moneyball&qid=1667136062&qu=eyJxc2MiOiIxLjY0IiwicXNhIjoiMS43MCIsInFzcCI6IjEuNTgifQ%3D%3D&s=books&sprefix=moneyball%2Cstripbooks%2C151&sr=1-2&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9
+[36]:https://www.amazon.com/Letters-Young-Athlete-Chris-Bosh/dp/1984881787/ref=sr_1_1?crid=T9ZBMQ0QKTX4&keywords=Letters+to+a+Young+Athlete&qid=1667136169&qu=eyJxc2MiOiIxLjc3IiwicXNhIjoiMS41NyIsInFzcCI6IjEuNjEifQ%3D%3D&sprefix=letters+to+a+young+athlete%2Caps%2C186&sr=8-1
+[37]:https://www.amazon.com/gp/product/B00HTJQUH2/ref=dbs_a_def_rwt_bibl_vppi_i43
+[38]:https://www.amazon.com/Pale-Blue-Dot-Vision-Future-ebook/dp/B004W0I3LW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1667136324&sr=1-5
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
