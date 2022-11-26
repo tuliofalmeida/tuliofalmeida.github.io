@@ -47,6 +47,7 @@ Books I read in 2022
 36. [Letters to a Young Athlete][36]
 37. [The Bed of Procrustes][37]
 38. [Pale Blue Dot][38]
+39. [Cartas para minha avó][39]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4].
 
@@ -88,6 +89,7 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [36]:https://www.amazon.com/Letters-Young-Athlete-Chris-Bosh/dp/1984881787/ref=sr_1_1?crid=T9ZBMQ0QKTX4&keywords=Letters+to+a+Young+Athlete&qid=1667136169&qu=eyJxc2MiOiIxLjc3IiwicXNhIjoiMS41NyIsInFzcCI6IjEuNjEifQ%3D%3D&sprefix=letters+to+a+young+athlete%2Caps%2C186&sr=8-1
 [37]:https://www.amazon.com/gp/product/B00HTJQUH2/ref=dbs_a_def_rwt_bibl_vppi_i43
 [38]:https://www.amazon.com/Pale-Blue-Dot-Vision-Future-ebook/dp/B004W0I3LW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1667136324&sr=1-5
+[39]:https://www.amazon.com.br/Cartas-para-minha-Djamila-Ribeiro-ebook/dp/B0974VY5GX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1669480791&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
