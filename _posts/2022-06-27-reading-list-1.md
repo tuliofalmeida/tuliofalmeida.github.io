@@ -27,7 +27,7 @@ Books I read in 2018
 16. [A queda][16]
 17. [Mental toughness][17]
 
-Lists from other years: [2019][list2], [2020][list3], [2021][list4], [2022][list5].
+Lists from other years: [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6].
 
 [1]:https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/B082VKY29Q/ref=sr_1_1?crid=EV429XVYUX6T&keywords=tools+of+titans&qid=1656358331&sprefix=tools+of+titan%2Caps%2C141&sr=8-1
 [2]:https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/B082VM5VZN/ref=sr_1_1?crid=2601FE0GVJSGX&keywords=tribe+of+mentors&qid=1656358437&sprefix=tribe+of+entors%2Caps%2C128&sr=8-1
@@ -52,3 +52,4 @@ Lists from other years: [2019][list2], [2020][list3], [2021][list4], [2022][list
 [list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
 [list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
 [list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
+[list6]:https://tuliofalmeida.com/posts/2022/12/list-6/

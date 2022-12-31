@@ -51,7 +51,7 @@ Books I read in 2020
 40. [A batalha do apocalipse][40]
 41. [Filhos do Eden - Herdeiros de Atlântida][41]
 
-Lists from other years: [2018][list1], [2019][list2], [2021][list4], [2022][list5].
+Lists from other years: [2018][list1], [2019][list2], [2021][list4], [2022][list5], [2023][list6].
 
 [1]:https://www.amazon.com/Learn-Earn-Beginners-Basics-Investing-ebook/dp/B008TRUA7Y/ref=sr_1_3?crid=35KN3UK288N1F&keywords=peter+lynch&qid=1656705781&s=digital-text&sprefix=peter+lynch%2Cdigital-text%2C189&sr=1-3
 [2]:https://www.amazon.com/gp/product/B07MZGKTFR/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
@@ -100,3 +100,4 @@ Lists from other years: [2018][list1], [2019][list2], [2021][list4], [2022][list
 [list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
 [list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
 [list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
+[list6]:https://tuliofalmeida.com/posts/2022/12/list-6/

@@ -48,8 +48,13 @@ Books I read in 2022
 37. [The Bed of Procrustes][37]
 38. [Pale Blue Dot][38]
 39. [Cartas para minha avó][39]
+40. [I Thought It Was Just Me (but it isn't)][40]
+41. [Bloodchild: The Hugo, Locus and Nebula award-winning novella (English Edition)][41]
+42. [Death with Interruptions][42]
+43. [Arsène Lupin gentleman cambrioleur][43]
+44. Joana, a flor que não morre
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4].
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2023][list6].
 
 [1]:https://www.amazon.com/Zurich-Axioms-reward-generations-bankers/dp/1897597495/ref=sr_1_1?crid=32O7V3DC0DIWI&keywords=Zurich+axioms&qid=1658433034&sprefix=zurich+axioms%2Caps%2C177&sr=8-1
 [2]:https://www.amazon.com.br/Os-melhores-textos-Richard-Feynman-ebook/dp/B018T1255E/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
@@ -90,9 +95,15 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [37]:https://www.amazon.com/gp/product/B00HTJQUH2/ref=dbs_a_def_rwt_bibl_vppi_i43
 [38]:https://www.amazon.com/Pale-Blue-Dot-Vision-Future-ebook/dp/B004W0I3LW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1667136324&sr=1-5
 [39]:https://www.amazon.com.br/Cartas-para-minha-Djamila-Ribeiro-ebook/dp/B0974VY5GX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1669480791&sr=8-1
+[40]:https://www.amazon.com/Thought-Was-Just-but-isnt-ebook/dp/B000SEHDGM?ref_=ast_sto_dp
+[41]:https://www.amazon.com.br/Filhos-Sangue-Outras-Hist%C3%B3rias-Octavia/dp/6586015014
+[42]:https://www.amazon.com/Death-Interruptions-Jose-Saramago-ebook/dp/B003T0GBQK/ref=sr_1_2?crid=124APL60SZXZ&keywords=saramago&qid=1672483684&sprefix=saramago%2Caps%2C173&sr=8-2
+[43]:https://www.amazon.com/Ars%C3%A8ne-Lupin-gentleman-cambrioleur-originale/dp/B0BBXX9SQZ/ref=sr_1_1?crid=327W6P3JUZ2RF&keywords=Ars%C3%A8ne+Lupin+Gentleman+cambrioleur&qid=1672483738&sprefix=saramago%2Caps%2C134&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
 [list3]:https://tuliofalmeida.com/posts/2020/12/list-3/
 [list4]:https://tuliofalmeida.com/posts/2020/12/list-4/
 [list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
+[list6]:https://tuliofalmeida.com/posts/2022/12/list-6/
+
