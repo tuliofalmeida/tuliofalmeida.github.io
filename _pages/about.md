@@ -21,11 +21,11 @@ My general research interests include associate artificial intelligence with neu
 
 I'm part of the Pre-Doc + PhD program of the Initiative for interdisciplinary research in Biology ([i-Bio](http://ibio.sorbonne-universite.fr/)) of [Sorbonne University](https://www.sorbonne-universite.fr/). I will be doing rotations in three different laboratories at the [Institut de Biologie Paris-Seine](https://www.ibps.sorbonne-universite.fr/en) and the [Institut du Fer à Moulin](https://ifm-institute.org/en/home/) at the Sorbonne University:
 
-1. Project title “Leveraging machine learning and neural field modeling to understand the role of REM sleep in emotional memory consolidation and homeostasis”. Supervisors Gabrielle Girardeau (IFM) & Wilten Nicola (University of Calgary)
+1. Project title “Leveraging machine learning and neural field modeling to understand the role of REM sleep in emotional memory consolidation and homeostasis”. Supervisors Gabrielle Girardeau (IFM - [Girardeau Lab](https://girardeaulab.org/)) & Wilten Nicola (University of Calgary)
 2. Project title “Regulation of gene expression coupled to cell growth and division in bacterial adaption processes” Supervisors Bianca Sclavi (Laboratory of Computational and Quantitative Biology, IBPS) & Marco Cosentino Lagomarsino (IFOM foundation, University of Milan)
 3. Project title “Dissecting how excitable ependymal cells participate to locomotor rhythms using an all-optical approach” Supervisors Jean-Marie Mangin (Neurosciences Paris Seine, IBPS) & Georges Debregeas (Laboratory Jean Perrin, IBPS)
 
-I'm currently at [Girardeau Lab](https://girardeaulab.org/)!
+I'm currently at [Laboratory of Computational and Quantitative Biology, IBPS](https://www.ibps.sorbonne-universite.fr/en/research/computational-and-quantitative-biology/genome-biology)!
 
 ## Before PhD
 

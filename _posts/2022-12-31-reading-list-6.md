@@ -9,12 +9,16 @@ tags:
 Books I read in 2023
 ======
 
-1. 
+1. The Subtle Art of Not Giving a F*ck
+2. Arsène Lupin contre Herlock Sholmès
+3. Eleven Rings
 
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
-[1]:https://www.amazon.com/Zurich-Axioms-reward-generations-bankers/dp/1897597495/ref=sr_1_1?crid=32O7V3DC0DIWI&keywords=Zurich+axioms&qid=1658433034&sprefix=zurich+axioms%2Caps%2C177&sr=8-1
+[1]:https://www.amazon.fr/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713
+[2]:https://www.amazon.fr/Ars%C3%A8ne-contre-Herlock-Sholmes-Policiers-ebook/dp/B005SI8U1A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1675111238&sr=8-1
+[3]:https://www.amazon.fr/Eleven-Rings-Phil-Jackson-ebook/dp/B00O30HH5Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1675111302&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
