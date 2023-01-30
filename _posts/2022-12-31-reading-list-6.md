@@ -9,9 +9,9 @@ tags:
 Books I read in 2023
 ======
 
-1. The Subtle Art of Not Giving a F*ck
-2. Arsène Lupin contre Herlock Sholmès
-3. Eleven Rings
+1. [The Subtle Art of Not Giving a F*ck][1]
+2. [Arsène Lupin contre Herlock Sholmès][2]
+3. [Eleven Rings][3]
 
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
