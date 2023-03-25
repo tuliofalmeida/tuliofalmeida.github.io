@@ -14,7 +14,7 @@ Books I read in 2023
 3. [Eleven Rings][3]
 4. [L'Aiguille creuse: Une aventure d'Arsène Lupin][4]
 5. [The Greek Way][5]
-6. [All the Living and the Dead: A Personal Investigation into the Death Trade][6]
+6. [All the Living and the Dead: A Personal Investigation into the Death Trade Life's Work][6]
 
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
