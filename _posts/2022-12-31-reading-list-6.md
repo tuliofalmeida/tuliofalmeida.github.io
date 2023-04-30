@@ -15,6 +15,10 @@ Books I read in 2023
 4. [L'Aiguille creuse: Une aventure d'Arsène Lupin][4]
 5. [The Greek Way][5]
 6. [All the Living and the Dead: A Personal Investigation into the Death Trade Life's Work][6]
+7. [Le Petit Nicolas][7]
+8. [Never Finished][8]
+9. [Le Petit Nicolas et les copains][9]
+10. [Discipline Is Destiny][10]
 
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
@@ -25,6 +29,10 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [4]:https://www.amazon.fr/LAiguille-creuse-aventure-dArs%C3%A8ne-Lupin/dp/B09Z4JKQXC/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WHKLNHC813NZ&keywords=lupin+l%27aguille&qid=1677347000&sprefix=lupin+l%27aguille%2Caps%2C76&sr=8-1
 [5]:https://www.amazon.fr/gp/product/B004AE34PU/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
 [6]:https://www.amazon.fr/gp/product/B09K21LH4V/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1
+[7]:https://www.amazon.fr/Petit-Nicolas-Ren%C3%A9-Goscinny-ebook/dp/B00CZ8IHBE/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2JMNH25QXQ3LH&keywords=le+petit+nicolas&qid=1682882428&sprefix=le+petit+nicolas%2Caps%2C106&sr=8-2
+[8]:https://www.amazon.fr/Never-Finished-Unshackle-Within-English-ebook/dp/B0BJMN7RMV/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11SE99A8OZR1U&keywords=never+finished&qid=1682882484&sprefix=never+finished%2Caps%2C87&sr=8-1
+[9]:https://www.amazon.fr/Petit-Nicolas-copains-Ren%C3%A9-Goscinny-ebook/dp/B00R4W35NQ/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YV6FQ8UYNJKP&keywords=le+petit+nicolas+e+les+copains&qid=1682882517&sprefix=le+petit+nicolas+e+les+copains%2Caps%2C124&sr=8-2
+[10]:https://www.amazon.fr/Discipline-Destiny-Power-Self-Control-English-ebook/dp/B09PWRRCC7/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=255EN8PEAMZTA&keywords=discipline+is+destiny&qid=1682882569&sprefix=discipline+is+destiny%2Caps%2C91&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
