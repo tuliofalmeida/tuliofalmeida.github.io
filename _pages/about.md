@@ -26,7 +26,7 @@ I'm part of the Pre-Doc + PhD program of the Initiative for interdisciplinary re
 I'm currently at [Global regulation for bacterial adaptation group](https://sites.google.com/site/biancasclavi/?pli=1)) ([Laboratory of Computational and Quantitative Biology](https://www.ibps.sorbonne-universite.fr/en/research/computational-and-quantitative-biology/genome-biology), IBPS) & Marco Cosentino Lagomarsino ([Marco Cosentino Lagomarsino Lab](https://www.ifom.eu/en/cancer-research/research-labs/research-lab-cosentinolagomarsino.php), [IFOM](https://www.ifom.eu/en/), University of Milan)
 3. Project title “Dissecting how excitable ependymal cells participate to locomotor rhythms using an all-optical approach” Supervisors Jean-Marie Mangin ([Development of the spinal cord organization](https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/development-of-the-spinal-cord-organization), IBPS) & Georges Debregeas ([Laboratory Jean Perrin](https://www.labojeanperrin.fr/?gdebregeas), IBPS)
 
-I'm currently at [Global regulation for bacterial adaptation group](https://sites.google.com/site/biancasclavi/?pli=1) part of [Biology of Genomes (BIG) group](http://www.lcqb.upmc.fr/BIG)!
+I'm currently at [Development of the spinal cord organization](https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/development-of-the-spinal-cord-organization)!
 
 ## Before PhD
 
