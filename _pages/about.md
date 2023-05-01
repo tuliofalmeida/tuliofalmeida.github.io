@@ -34,4 +34,4 @@ I received my M.Sc. in Neuroengineering from the Edmond and Lily Safra Internati
 
 ## Beyond the academy
 
-I am currently running around Paris and will run the Paris Marathon in 2024 and am documenting this process in [photos](https://www.instagram.com/running2marathon/)!
+I'm currently running around Paris and will run the Paris Marathon in 2024 and I'm documenting this process in [photos](https://www.instagram.com/running2marathon/)!
