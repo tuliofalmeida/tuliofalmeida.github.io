@@ -19,7 +19,9 @@ Books I read in 2023
 8. [Never Finished][8]
 9. [Le Petit Nicolas et les copains][9]
 10. [Discipline Is Destiny][10]
-
+11. [Smart Thinking][11]
+12. [Les Vacances Du Petit Nicolas][12]
+13. [Avogadro Corp: The Singularity Is Closer Than It Appears][13]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
@@ -33,6 +35,9 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [8]:https://www.amazon.fr/Never-Finished-Unshackle-Within-English-ebook/dp/B0BJMN7RMV/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11SE99A8OZR1U&keywords=never+finished&qid=1682882484&sprefix=never+finished%2Caps%2C87&sr=8-1
 [9]:https://www.amazon.fr/Petit-Nicolas-copains-Ren%C3%A9-Goscinny-ebook/dp/B00R4W35NQ/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YV6FQ8UYNJKP&keywords=le+petit+nicolas+e+les+copains&qid=1682882517&sprefix=le+petit+nicolas+e+les+copains%2Caps%2C124&sr=8-2
 [10]:https://www.amazon.fr/Discipline-Destiny-Power-Self-Control-English-ebook/dp/B09PWRRCC7/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=255EN8PEAMZTA&keywords=discipline+is+destiny&qid=1682882569&sprefix=discipline+is+destiny%2Caps%2C91&sr=8-1
+[11]:https://www.amazon.fr/gp/product/B0068PHXV0/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+[12]:https://www.amazon.fr/gp/product/B00CYLLB10/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+[13]:https://www.amazon.fr/gp/product/B006ACIMQQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
