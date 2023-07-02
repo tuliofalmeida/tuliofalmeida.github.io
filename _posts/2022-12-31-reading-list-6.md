@@ -22,6 +22,9 @@ Books I read in 2023
 11. [Smart Thinking][11]
 12. [Les Vacances Du Petit Nicolas][12]
 13. [Avogadro Corp: The Singularity Is Closer Than It Appears][13]
+14. [A.I. Apocalypse][14]
+15. [The Last Firewall][15]
+16. [The Turing Exception][16]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
@@ -38,6 +41,9 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [11]:https://www.amazon.fr/gp/product/B0068PHXV0/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
 [12]:https://www.amazon.fr/gp/product/B00CYLLB10/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
 [13]:https://www.amazon.fr/gp/product/B006ACIMQQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+[14]:https://www.amazon.fr/gp/product/B007FZVI2M/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+[15]:https://www.amazon.fr/gp/product/B00EEIGHDI/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+[16]:https://www.amazon.fr/gp/product/B00UGIOCUK/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
