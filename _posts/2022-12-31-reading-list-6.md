@@ -25,6 +25,10 @@ Books I read in 2023
 14. [A.I. Apocalypse][14]
 15. [The Last Firewall][15]
 16. [The Turing Exception][16]
+17. [Dark Matter][17]
+18. [Breathe: A life in flow][18]
+19. [Musashi][19]
+20. ['What Do You Care What Other People Think?': Further Adventures of a Curious Character][20]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
@@ -44,6 +48,10 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [14]:https://www.amazon.fr/gp/product/B007FZVI2M/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
 [15]:https://www.amazon.fr/gp/product/B00EEIGHDI/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
 [16]:https://www.amazon.fr/gp/product/B00UGIOCUK/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+[17]:https://www.amazon.fr/Dark-Matter-Blake-Crouch/dp/144729758X/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LN0MM0GZJODQ&keywords=dark+matter&qid=1693482036&sprefix=dark+matter%2Caps%2C85&sr=8-2
+[18]:https://www.amazon.fr/Breathe-Life-Flow-Rickson-Gracie/dp/0008440115/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ODCK1TES09S1&keywords=breathe&qid=1693482007&sprefix=breathe+%2Caps%2C85&sr=8-1
+[19]:https://www.amazon.fr/Musashi-Epic-Novel-Samurai-Era/dp/156836427X/ref=sr_1_9?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=musashi&qid=1693482086&sr=8-9
+[20]:https://www.amazon.fr/gp/product/0141030887?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
