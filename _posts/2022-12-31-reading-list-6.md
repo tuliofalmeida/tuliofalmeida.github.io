@@ -29,6 +29,9 @@ Books I read in 2023
 18. [Breathe: A life in flow][18]
 19. [Musashi][19]
 20. ['What Do You Care What Other People Think?': Further Adventures of a Curious Character][20]
+21. [Atlas Six][21]
+22. [Atlas Paradox][22]
+23. [The Shining][23]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
@@ -52,6 +55,9 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [18]:https://www.amazon.fr/Breathe-Life-Flow-Rickson-Gracie/dp/0008440115/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ODCK1TES09S1&keywords=breathe&qid=1693482007&sprefix=breathe+%2Caps%2C85&sr=8-1
 [19]:https://www.amazon.fr/Musashi-Epic-Novel-Samurai-Era/dp/156836427X/ref=sr_1_9?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=musashi&qid=1693482086&sr=8-9
 [20]:https://www.amazon.fr/gp/product/0141030887?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks
+[21]:https://www.amazon.fr/Atlas-Six-Olivie-Blake/dp/274994984X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CSP8K3DE48SL&keywords=ATLAS+SIx&qid=1695564610&sprefix=atlas+six%2Caps%2C75&sr=8-1
+[22]:https://www.amazon.fr/Atlas-Paradox-Olivie-Blake/dp/1529095301/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T6RJJURMNW7Z&keywords=atlas+paradox&qid=1695564666&s=books&sprefix=atlas+paradox%2Cstripbooks%2C111&sr=1-1
+[23]:https://www.amazon.fr/Shining-Stephen-King/dp/0307743659/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZZ9BRL3270N8&keywords=the+shining&qid=1695564689&s=books&sprefix=the+shining%2Cstripbooks%2C86&sr=1-2
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
