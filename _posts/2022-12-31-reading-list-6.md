@@ -32,6 +32,10 @@ Books I read in 2023
 21. [Atlas Six][21]
 22. [Atlas Paradox][22]
 23. [The Shining][23]
+24. [Doctor Sleep][24]
+25. [Never Split the Difference: Negotiating As If Your Life Depended On It][25]
+26. [The Great Gatsby][26]
+27. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking][27]
 
 Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5].
 
@@ -58,6 +62,10 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [21]:https://www.amazon.fr/Atlas-Six-Olivie-Blake/dp/274994984X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CSP8K3DE48SL&keywords=ATLAS+SIx&qid=1695564610&sprefix=atlas+six%2Caps%2C75&sr=8-1
 [22]:https://www.amazon.fr/Atlas-Paradox-Olivie-Blake/dp/1529095301/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T6RJJURMNW7Z&keywords=atlas+paradox&qid=1695564666&s=books&sprefix=atlas+paradox%2Cstripbooks%2C111&sr=1-1
 [23]:https://www.amazon.fr/Shining-Stephen-King/dp/0307743659/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZZ9BRL3270N8&keywords=the+shining&qid=1695564689&s=books&sprefix=the+shining%2Cstripbooks%2C86&sr=1-2
+[24]:https://www.amazon.fr/Doctor-Sleep-Stephen-King/dp/1444761188
+[25]:https://www.amazon.fr/Never-Split-Difference-Negotiating-Depended/dp/0062407805
+[26]:https://www.amazon.fr/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567
+[27]:https://www.amazon.fr/How-Take-Smart-Notes-Nonfiction/dp/1542866502/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
