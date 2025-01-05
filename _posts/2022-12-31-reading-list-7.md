@@ -22,8 +22,12 @@ Books I read in 2024
 11. [Born a Crime: Stories from a South African Childhood][11]
 12. [Black Skin, White Masks][12]
 13. [Feynman's Rainbow: A Search for Beauty in Physics and in Life][13]
+14. [Discipline Is Destiny: The Power of Self-Control][14]
+15. [Sobre As Leis Da Fisica][15]
+16. [The Martian][16]
+17. [Of Mice and Men][17]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2025][list8]
 
 [1]:https://www.amazon.fr/Flatland-Edwin-Abbott/dp/2207247376/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=
 [2]:https://www.amazon.fr/Genius-Science-Richard-Feynman-November/dp/B008YFC52O/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.S4wOZD6FFrChSVefiySXmDXU8DMQ2UkUnkYO7sEvGgE4V30s3gkBcXA8Z3bjdZWRdzB46WxtJlmtSh-SG1Cla4-WJ_TXb09OWA0oHN7ob84.5Gi6Fz9vi3QfLENeMMhkhaPuqGtYVUKAbnAnLCXS1Ak&dib_tag=se&keywords=Genius%3A+The+Life+and+Science+of+Richard+Feynman&qid=1712497858&sr=8-2
@@ -38,6 +42,10 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [11]:https://www.amazon.fr/Born-Crime-Stories-African-Childhood/dp/052550902X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BAPSKFHJ01UI&dib=eyJ2IjoiMSJ9.rLle2lDi6mFWdRcbBJGr2vQP_IDrCTv2Dke9e5uiYt3SADDXKcu170VOtnsyVpbfSQiT-cA7A_Q4CDliAop9RHvPp1ewMbh6y-1JG-ObH7Fjei72iUOVy7eXmGuAV_ZgzmbLDeiMmykUfpb8rH4JC3ywjpF4CKGz2TFjLqLuJ7bOyhiZK8Eyr8WDt2jhZ0mzLhbIWsCtkgTWWZWM98IDmoIltRxzSDJFieEWmjI_fR_OrdHuSPu77xSVCehCdAH8ay7X5Bz32EqvvDfwHbtr64ONImg-_-Ro1fluO7VWtoU._18uZtm2iTy-eywLmW3pmOTgS_HuI4dMTkbIPexl1Xo&dib_tag=se&keywords=trevor+noah&qid=1726384648&sprefix=trevor+noah%2Caps%2C81&sr=8-1
 [12]:https://www.amazon.fr/Black-White-Masks-Frantz-Fanon/dp/0241396662/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VM946GROS5QA&dib=eyJ2IjoiMSJ9.gvDXecoiySYuTXl44gDAr7tAw-sXjbFr9l4zC9wi9DZGfhyqYKUYvSA-a8L2tU6grkPcTnV8sdzD4X3GrBJX9-du1kG69QUM5vNIMXzi9buQFzly9Xnm-iu-U8Lxa2ETMbQOA7muM2zhudsQL4a08jICaMADfFQrezJV_0MNPkyC36SwosDYzagFT3leKt0-VVukHt70K78Oacwz6mpRKC6jYaUYSyjgih4Yeod22KNJ1ktpi6LztQJ57KoNxs2EN-LANwnLgafw1A9bpm1zuPKSh5wNY1xgJZSPOJVkfJM.EZWNYsnG5QLE8HNjT1MxaPXeo_7TMFVzeu7ZgZ9rBhc&dib_tag=se&keywords=frantz+fanon+black+skin&qid=1726384721&sprefix=frantz+fanon+black+skin%2Caps%2C79&sr=8-1
 [13]:https://www.amazon.fr/Feynmans-Rainbow-Search-Physics-English-ebook/dp/B00FOU91QK/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2V5S8TEY3OL08&dib=eyJ2IjoiMSJ9.CwelcwN6v3sQ6lLKf13SpD4w9dFBwFoLQa4oAJItPyU.YOQTMaDrH_kmj3e7jSjllu-Gk4IEi0AhYnxsEVBZ-8E&dib_tag=se&keywords=feynman+rainbow&qid=1726384760&sprefix=feynmans+rainbown%2Caps%2C75&sr=8-1
+[14]:https://www.amazon.fr/Discipline-Destiny-Self-Control-Ryan-Holiday/dp/0593191692
+[15]:https://www.amazon.com.br/Sobre-Leis-F%C3%ADsica-Richard-Feynman/dp/8578660471/ref=pd_bxgy_thbs_d_sccl_2/130-8168320-8031142?pd_rd_w=IEdSR&content-id=amzn1.sym.787de441-89cb-4c88-8014-1deb1a0e1e72&pf_rd_p=787de441-89cb-4c88-8014-1deb1a0e1e72&pf_rd_r=X5HVE5XT4W8CTP4EV161&pd_rd_wg=Gq7Y2&pd_rd_r=9fdfe045-e553-4c18-9ea7-86e7ef95e5b1&pd_rd_i=8578660471&psc=1
+[16]:https://www.amazon.fr/Martian-Stranded-astronaut-survive-English-ebook/dp/B0845W45HN/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=GOWOWR5ACJHK&dib=eyJ2IjoiMSJ9.x4ZSuF7n9euT2FuT_-oKqj6vYchv9oyfYMgNVOtCDzlVRMLolJKwdAH_SQvHn_2FMzpTrRr5MIpQonOmu2xAnz1IIomSdMCVVI71CxVYahfOil8ZR40H5ZpyDaJMWtDZ3ihtEsdyB0I7CVxzqRz9vQvTIAJ6Uc8JJxo3Ms90JeiuHgXkb5vMCuXQ4d0ZrXTRO3yWZmAbOccXDlo5E7TyrbZb5DfrDTX6_luNfxQGXNC7Ve74KfIOwezOUxeWqDBvPpA_iKx74kYRLMPpD-KXIiqsKaaNIm-mvYHkwmm0d62Nh7omm2o0dZ53J2dUhBQ43n5Phn9YxGP9Es3igceST-9pME9CrCei21QNdB9zFBeIw0xp_2-t6AOxGJHi4j8kUlyclCr9b_1Op6PUpBhdr2kHJuTYvFkIm4o1Ie3UhF0LDax8uYcJNa99GHa7S7WE.Q0GDVsa4uQ-qIr34riEj9M6YYN3DxEzgO87XlM31dRQ&dib_tag=se&keywords=the+martian&nsdOptOutParam=true&qid=1736074744&sprefix=the+martian%2Caps%2C91&sr=8-1
+[17]:https://www.amazon.fr/Mice-Men-without-notes/dp/0582827647/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.CU-xrqCXDue8DMkm3U0h3VccqOkZjLqdqYqvxkyUXDtAbLR0f7F8zzrPcG-sDJWmoB2KEw7C-DTmEPLiEqthUbo-E1taGr4gYmekI_oFvz1a_xd5OWqDGuDyfgCWtN3cCv0ysBBK01ddxxD6uS1qXGcUi19U2RQtacvnIuOhnitBxa6y8uoPmgFHgeqqHES4FY3X0zhcFezr9NwQ3WqNLMgCEslS1dVZBy-Mb1j3Zo4rDBDNzdefqb0N6YD9dVa7kl66siInY4W-tMpqKFZ4J_OXSuRfzU8uy0PptNbhof1NnzbBsvZCcOsZ1vuPNH9CumWZW4GPfsWrbTNE4aWv_k-Pm56zMuLQXsOejjtWORjhFi7p8B_aH6Ik3djZSeoiEIq-FgckYN2lNXRleTRIulexrwCVLWAFRnt92sSOi6oCZQmbwHQXyiwQiemwPJp1.BFx8pNfL_CTDHAgIRRgcnkN-bOI73h12vZmYBb7qrs0&qid=1736074770&sr=8-1
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
@@ -46,3 +54,4 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
 [list6]:https://tuliofalmeida.com/posts/2022/12/list-6/
 [list7]:https://tuliofalmeida.com/posts/2022/12/list-7/
+[list8]:https://tuliofalmeida.com/posts/2022/12/list-8/

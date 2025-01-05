@@ -37,7 +37,7 @@ Books I read in 2023
 26. [The Great Gatsby][26]
 27. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking][27]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2024][list7]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2024][list7], [2025][list8]
 
 [1]:https://www.amazon.fr/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713
 [2]:https://www.amazon.fr/Ars%C3%A8ne-contre-Herlock-Sholmes-Policiers-ebook/dp/B005SI8U1A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1675111238&sr=8-1
@@ -74,3 +74,4 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [list5]:https://tuliofalmeida.com/posts/2022/12/list-5/
 [list6]:https://tuliofalmeida.com/posts/2022/12/list-6/
 [list7]:https://tuliofalmeida.com/posts/2022/12/list-7/
+[list8]:https://tuliofalmeida.com/posts/2022/12/list-8/
