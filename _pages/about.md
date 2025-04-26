@@ -34,4 +34,4 @@ I received my M.Sc. in Neuroengineering from the Edmond and Lily Safra Internati
 
 ## Beyond the academy
 
-I'm Brazilian Jiu-Jitsu Black Belt. But, I'm currently running around Paris and will run the [Marathon Nice-Cannes](https://www.instagram.com/marathonnicecannes/) in 2024 and the [Paris Marathon](https://www.instagram.com/parismarathon/) in 2025. I'm documenting this process in my [OnlyRuns](https://www.instagram.com/only.runs_/)!
+I'm Brazilian Jiu-Jitsu Black Belt. But, I'm currently running around Paris and will run the [New York Marathon](https://www.nyrr.org/tcsnycmarathon) in 2025! I'm documenting this process in my [OnlyRuns](https://www.instagram.com/only.runs_/)!
