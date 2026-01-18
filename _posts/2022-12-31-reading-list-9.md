@@ -17,20 +17,7 @@ Lists from other years: [2018][list1],[2019][list2], [2020][list3], [2021][list4
 
 [1]:https://lojadoims.com.br/product/38552/pequenas-fricas-o-rio-que-o-samba-inventou-
 [2]:https://www.amazon.com.br/Confessions-St-Augustine/dp/B002DZ2GHK
-[3]:
-[4]:
-[5]:
-[6]:
-[7]:
-[8]:
-[9]:
-[10]:
-[11]:
-[12]:
-[13]:
-[14]:
-[15]:
-[16]:
+
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/
