@@ -13,8 +13,7 @@ redirect_from:
 
 ## Hello World!
 
-I'm a neuroengineer enthusiastic about neuroscience, computer vision, machine learning and open-source softwares.
-My general research interests include associate artificial intelligence with neural data processing. Check out some of the 
+I am currently pursuing a PhD at the intersection of Computational and Systems Neuroscience, focusing on understanding emotional memory through data analysis and computational modeling. Check out some of the 
 [projects](https://tuliofalmeida.github.io/projects/) I've been working on or [follow me](https://twitter.com/tuliofalmeida) on twitter!
  
 ## What am I up to?
@@ -34,4 +33,4 @@ I received my M.Sc. in Neuroengineering from the Edmond and Lily Safra Internati
 
 ## Beyond the academy
 
-I'm Brazilian Jiu-Jitsu Black Belt. But, I'm currently running around Paris and will run the [New York Marathon](https://www.nyrr.org/tcsnycmarathon) in 2025! I'm documenting this process in my [OnlyRuns](https://www.instagram.com/only.runs_/)!
+I'm Brazilian Jiu-Jitsu Black Belt. But, I'm currently running around Paris and will run the [Tokyo Marathon](https://www.marathon.tokyo/en/) in 2026! I'm documenting this process in my [OnlyRuns](https://www.instagram.com/only.runs_/)!
