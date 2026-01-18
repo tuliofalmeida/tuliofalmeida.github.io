@@ -29,8 +29,14 @@ Books I read in 2025
 18. [The Siege (Canons)][18]
 19. [The Alchemist][19]
 20. [Comfort in Darkness: The Invisible Power of Jiu Jitsu][20]
+21. [The Republic][21]
+22. [American Gods][22]
+23. [And then there were none][23]
+24. [Snow Crah][24]
+25. [Carlos Gracie: The creator of a Fighting Dynasty][25]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2024][list7]
+
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2024][list7], [2026][list9]
 
 
 [1]:https://www.amazon.com.br/anos-solid%C3%A3o-Gabriel-Garcia-M%C3%A1rquez/dp/8501012076/ref=sr_1_1?crid=2WX91KSJGHFKL&dib=eyJ2IjoiMSJ9.61kwO3mp6iD4h8HczZfTZzINzOpPwhHL5ASIboKvdyTz3XvmWunK38FASSG8U6MKvszMd6lMLn2DLXSORAUDuF679br72XsIpryMnI8Zojz5c_OJPiybp5ydh3tloFJI64IWVtyCfc6RHCZjvK1Qo3rQTo-bUVIp4Ga2KChA8Oww7N9v3_SitJvJBQ3hi4ku3LDjjtZOUVYQxfsUWGjWIMn-WhtSX8VwTYxKxRZ92lPMZ1tr-1GhXBFUCBIMCxDkdaM2KjHerV0EFmzE-fzq8Ps0A5fCJ2KaZGNm56SpqxRI841HRQdfggFVI7kps-gAYBwpHpp8ZwhjlqB4jwJhhF5eTFErKDjNohSvAUXxA4z5RbHY0jM7lLpXLFdnNwOHd8Eni_3YMq_tvPOsUxFSqa-AMTHrmEG3cRBwqhIRZodQtCRJCAQOGmkEpCtBVdXX.CpH4BlKjlBOoRfJBTt3fqopGUnfKfKi_KybjdDw7dek&dib_tag=se&keywords=100+anos+de+solid%C3%A3o&qid=1736075125&sprefix=100+anos%2Caps%2C203&sr=8-1
@@ -53,6 +59,11 @@ Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list
 [18]:https://www.amazon.com/Siege-Ismail-Kadare-ebook/dp/B002VM7FX0/ref=sr_1_12?crid=2WN7T65ZWE2VB&dib=eyJ2IjoiMSJ9.A8B-H7cbCVwz47yJdj9IEdTp9stlmuC_H1Hbghc1lrnPkjhdjChBaPU65ZqFfdKF-uOWTDgSjweKHScxkIWHqOQWq5YxCVReesszRm6jtRGjvlPC8as53mbOAI8uVBv1TKUnYH1C46nzrj4tbMRK3i-89ikRzQLpz4pAZWpOFTSfrv9EQEbZykC4LjOw7Sfto2fi830JFKzEChZO-FKyt6GYRuNB0ghVoXGJmlvqJ6A.83hAK37-I_zZM0ph0Wu9dE4thyVqelI545AH-GkOtiY&dib_tag=se&keywords=the+siege&qid=1753006126&s=books&sprefix=the+sie%2Cstripbooks-intl-ship%2C253&sr=1-12
 [19]:https://www.amazon.com.br/Alchemist-English-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J0F24TLCDQVU&dib=eyJ2IjoiMSJ9.b8CRpZI4E6zpRBunQCIfcBTvMZT2ccyQ9uAnO44mGFKKX3aamZ2ucvoanScBQ2v8CQV0IcDhITpV0kNo6Hh8L2Ojr9VO5aPJCcNZDYvM_9w4hQD15-360nPgO-jWlVx_buz7AuLBIxNdGWUQDkkq4P8OzmFM8sjNWXHjxElFLdA4Jl4srxkZ9OigxTvo-VIFtfPkBuj0qDEvU02K1KBuOMpGYLZJOEvCwkJ1uCewD1E.RQVRajUit_wPJUnVPR2NNXmfHcAoVQvqBcZgyWwBCXc&dib_tag=se&keywords=o+alquimista&qid=1753006391&s=digital-text&sprefix=o+alquimist%2Cdigital-text%2C146&sr=1-1
 [20]:https://www.amazon.com/Comfort-Darkness-Invisible-Power-Jitsu-ebook/dp/B0CJ9T7596/ref=tmm_kin_swatch_0
+[21]:https://www.amazon.com.br/Republic-Plato/dp/0140455116
+[22]:https://www.amazon.com.br/American-Gods-Neil-Gaiman/dp/8418850493
+[23]:https://www.amazon.com.br/Then-There-Were-None/dp/0062073486
+[24]:https://www.amazon.fr/Snow-Crash-Neal-Stephenson/dp/0140230211
+[25]:https://www.amazon.com.br/dp/6598885302?ref=ppx_yo2ov_dt_b_fed_asin_title
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
 [list2]:https://tuliofalmeida.com/posts/2019/12/list-2/

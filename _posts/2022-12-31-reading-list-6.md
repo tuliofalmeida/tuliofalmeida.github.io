@@ -37,7 +37,7 @@ Books I read in 2023
 26. [The Great Gatsby][26]
 27. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking][27]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2024][list7], [2025][list8]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2024][list7], [2025][list8], [2026][list9]
 
 [1]:https://www.amazon.fr/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713
 [2]:https://www.amazon.fr/Ars%C3%A8ne-contre-Herlock-Sholmes-Policiers-ebook/dp/B005SI8U1A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1675111238&sr=8-1

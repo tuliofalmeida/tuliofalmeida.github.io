@@ -27,7 +27,7 @@ Books I read in 2024
 16. [The Martian][16]
 17. [Of Mice and Men][17]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2025][list8]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2025][list8], [2026][list9]
 
 [1]:https://www.amazon.fr/Flatland-Edwin-Abbott/dp/2207247376/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=
 [2]:https://www.amazon.fr/Genius-Science-Richard-Feynman-November/dp/B008YFC52O/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.S4wOZD6FFrChSVefiySXmDXU8DMQ2UkUnkYO7sEvGgE4V30s3gkBcXA8Z3bjdZWRdzB46WxtJlmtSh-SG1Cla4-WJ_TXb09OWA0oHN7ob84.5Gi6Fz9vi3QfLENeMMhkhaPuqGtYVUKAbnAnLCXS1Ak&dib_tag=se&keywords=Genius%3A+The+Life+and+Science+of+Richard+Feynman&qid=1712497858&sr=8-2

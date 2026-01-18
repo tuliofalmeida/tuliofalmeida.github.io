@@ -26,7 +26,7 @@ Books I read in 2019
 15. [Think and grow rich][15]
 16. [Secrets of the Millionaire Mind][16]
 
-Lists from other years: [2018][list1], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2024][list7], [2025][list8]
+Lists from other years: [2018][list1], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2024][list7], [2025][list8], [2026][list9]
 
 [1]:https://www.amazon.com/Ostra-feliz-n%C3%A3o-p%C3%A9rola-Portuguese-ebook/dp/B09BRF7Q7Q/ref=sr_1_1?qid=1656359787&refinements=p_27%3ARubem+Alves&s=digital-text&sr=1-1&text=Rubem+Alves
 [2]:https://www.amazon.com/Soccer-Sun-Shadow-Eduardo-Galeano/dp/1645030377/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=

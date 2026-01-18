@@ -45,7 +45,7 @@ Books I read in 2021
 34. [The Elements of Style][34]
 35. [Tradução do Sentimento Alvinegro]
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2022][list5], [2023][list6], [2024][list7], [2025][list8]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2022][list5], [2023][list6], [2024][list7], [2025][list8], [2026][list9]
 
 [1]:https://www.amazon.com/Anjos-Morte-Filhos-%C3%89den-Portuguese-ebook/dp/B00EAQUP6Y/ref=sr_1_1?crid=XV7A15NKYQ2H&keywords=Filhos+do+%C3%89den+-+Anjos+da+Morte&qid=1656707589&s=books&sprefix=filhos+do+%C3%A9den+-+anjos+da+morte%2Cstripbooks-intl-ship%2C321&sr=1-1
 [2]:https://www.amazon.com/Para%C3%ADso-perdido-Filhos-%C3%89den-Portuguese-ebook/dp/B0187TP870/ref=sr_1_1?crid=NV8ZXXUELEEZ&keywords=Filhos+do+%C3%89den+-+Para%C3%ADso+Perdido&qid=1656707613&s=books&sprefix=filhos+do+%C3%A9den+-+para%C3%ADso+perdido%2Cstripbooks-intl-ship%2C132&sr=1-1

@@ -54,7 +54,7 @@ Books I read in 2022
 43. [Arsène Lupin gentleman cambrioleur][43]
 44. Joana, a flor que não morre
 
-Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2023][list6], [2024][list7], [2025][list8]
+Lists from other years: [2018][list1], [2019][list2], [2020][list3], [2021][list4], [2023][list6], [2024][list7], [2025][list8], [2026][list9]
 
 [1]:https://www.amazon.com/Zurich-Axioms-reward-generations-bankers/dp/1897597495/ref=sr_1_1?crid=32O7V3DC0DIWI&keywords=Zurich+axioms&qid=1658433034&sprefix=zurich+axioms%2Caps%2C177&sr=8-1
 [2]:https://www.amazon.com.br/Os-melhores-textos-Richard-Feynman-ebook/dp/B018T1255E/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
