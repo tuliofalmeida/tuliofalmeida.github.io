@@ -11,12 +11,16 @@ Books I read in 2026
 
 1. [Pequenas Áfricas: o Rio que o samba inventou][1]
 2. [The Confessions of St. Augustine][2]
+3. [The Strange Case of Dr Jekyll and Mr Hyde: And Other Tales of Terror][3]
+4. [The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance][4]
 
 
 Lists from other years: [2018][list1],[2019][list2], [2020][list3], [2021][list4], [2022][list5], [2023][list6], [2024][list7], [2025][list8]
 
 [1]:https://lojadoims.com.br/product/38552/pequenas-fricas-o-rio-que-o-samba-inventou-
 [2]:https://www.amazon.com.br/Confessions-St-Augustine/dp/B002DZ2GHK
+[3]:https://www.amazon.ca/Strange-Case-Dr-Jekyll-Hyde/dp/0141439734
+[4]:https://www.amazon.ca/Inner-Game-Tennis-Classic-Performance/dp/0679778314
 
 
 [list1]:https://tuliofalmeida.com/posts/2018/12/list-1/
