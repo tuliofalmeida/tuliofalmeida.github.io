@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-excerpt: Things I’ve worked on (or still working on)
+excerpt: "Research projects by Túlio Almeida. Focuses on sleep dynamics, REM sleep and memory consolidation, Wilson-Cowan neural mass models, and animal behavior libraries."
 layout: collection
 header:
   overlay_image: mineirao.png

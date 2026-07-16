@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Túlio Almeida"
 title_separator          : ""
 name                     : &name "Túlio Almeida"
-description              : &description "Tulio's Personal Website"
+description              : &description "PhD Fellow in Computational and Systems Neuroscience at Sorbonne University (NeuroSU). Researching sleep dynamics, emotional memory consolidation, and Wilson-Cowan neural mass models."
 url                      : https://tuliofalmeida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tuliofalmeida/tuliofalmeida.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  https://tuliofalmeida.github.io/images/mineirao.png # Open Graph/Twitter default site image
+og_image                 :  https://tuliofalmeida.github.io/images/social_preview.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

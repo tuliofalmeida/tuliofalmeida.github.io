@@ -4,6 +4,7 @@ title: "Reading List"
 header:
   overlay_image: mineirao.png
   overlay_filter: 0.3
+excerpt: "Reading list and book recommendations by Túlio Almeida. Grouped by year, featuring classics, history, and computational neuroscience books."
 permalink: /reading-list/
 author_profile: true
 ---
