@@ -2,7 +2,7 @@
 layout: single
 title: "Publications"
 header:
-  overlay_image: mineirao.png
+  overlay_image: neuroscience_banner.jpg
   overlay_filter: 0.3
 excerpt: "Academic publications by Túlio Almeida on open-source libraries (PyRAT, PyJAMA) for animal behavior analysis and joint angle estimation, and IoT closed-loop devices."
 permalink: /publications/

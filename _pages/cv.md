@@ -2,7 +2,7 @@
 layout: single
 title: "Curriculum Vitae"
 header:
-  overlay_image: mineirao.png
+  overlay_image: neuroscience_banner.jpg
   overlay_filter: 0.3
 excerpt: "Curriculum Vitae of Túlio Almeida. PhD student in Neuroscience at Sorbonne University (i-Bio/NeuroSU) with expertise in neuroengineering, electrophysiology, machine learning, and data analysis."
 permalink: /cv/
