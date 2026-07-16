@@ -11,13 +11,13 @@ redirect_from:
   - /resume
 ---
 
-<a href="{{ site.baseurl }}/files/Tulio_CV.pdf" class="btn btn--info" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download CV (PDF)</a>
+<a href="{{ site.baseurl }}/files/Túlio_CV.pdf" class="btn btn--info" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download CV (PDF)</a>
 
 ## Education
 
 * **PhD in Neuroscience** | Sorbonne University, Paris, FR
   * *Oct. 2022 – Present*
-  * Part of the i-Bio program.
+  * Part of the i-Bio program and FRM-FDT Fellowship.
 * **Master in Neuroengineering** | Edmond and Lily Safra International Institute of Neurosciences, Macaíba, RN, BR
   * *Aug. 2019 – Jul. 2021*
 * **Bachelor of Physiotherapy** | Pontifical Catholic University of Minas Gerais, Belo Horizonte, MG, BR
@@ -29,7 +29,7 @@ redirect_from:
 
 * **PhD Student** | Sorbonne University, Paris, FR
   * *Oct. 2022 – Present* (Pre-Doc: *Sep. 2021 – Oct. 2022*)
-  * Doing doctoral research in the team led by Dr. Gabrielle Girardeau, focusing on electrophysiological analysis and recordings of emotional memories.
+  * Doing doctoral research in the team led by Dr. Gabrielle Girardeau, focusing on electrophysiological analysis and computational modeling under the supervision of Dr. Gabrielle Girardeau and Dr. Wilten Nicola (University of Calgary).
   * During the pre-doc year, completed laboratory rotations in:
     * *Gene Expression:* Global regulation for bacterial adaptation group (Dr. Bianca Sclavi)
     * *Calcium Imaging:* Development of the spinal cord organization lab (Dr. Jean-Marie Mangin)
@@ -90,6 +90,8 @@ redirect_from:
 
 ## Fundings & Fellowships
 
+* **FRM Fin de Thèse de Science Fellowship** | Fondation pour la Recherche Médicale (competitive national 4th-year PhD fellowship in France)
+* **Collaborative Research Grants** | IBRO (International Brain Research Organization), with Dr. Gabrielle Girardeau and Dr. Wilten Nicola
 * **PhD & Pre-Doc Fellowship** | Initiative for Biology (i-Bio), Sorbonne University
 * **Master’s Scholarship** | CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)
 
@@ -98,3 +100,10 @@ redirect_from:
 ## Professional Service
 
 * **Peer Reviewer:** The Journal of Open Source Software (JOSS)
+
+---
+
+## Beyond the Academy / Free Time
+
+* **Brazilian Jiu-Jitsu Black Belt**
+* **Elite Marathon Runner**
