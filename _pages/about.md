@@ -3,7 +3,7 @@ permalink: /
 title: <br>
 layout: single
 header:
-  overlay_image: mineirao.png
+  overlay_image: neuroscience_banner.jpg
   overlay_filter: 0.3
 excerpt: "Túlio Almeida's personal website. PhD Fellow in Computational and Systems Neuroscience at Sorbonne University (NeuroSU), working on sleep dynamics and emotional memory consolidation."
 author_profile: true
