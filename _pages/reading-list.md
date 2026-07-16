@@ -15,6 +15,10 @@ Books I have read over the years, grouped by year.
 2. [The Confessions of St. Augustine](https://www.amazon.com.br/Confessions-St-Augustine/dp/B002DZ2GHK)
 3. [The Strange Case of Dr Jekyll and Mr Hyde: And Other Tales of Terror](https://www.amazon.ca/Strange-Case-Dr-Jekyll-Hyde/dp/0141439734)
 4. [The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance](https://www.amazon.ca/Inner-Game-Tennis-Classic-Performance/dp/0679778314)
+5. [Moral Ambition: Stop wasting your talent and do something that matters](https://www.amazon.com/Moral-Ambition-Rutger-Bregman/dp/1035048259)
+6. [Breakneck: China's Quest to Engineer the Future](https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/132402157X)
+7. [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472)
+8. [Les Misérables](https://www.amazon.com/Les-Mis%C3%A9rables-Signet-Classics-Victor/dp/0451531647)
 
 ---
 
