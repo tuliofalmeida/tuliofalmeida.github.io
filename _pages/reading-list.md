@@ -18,7 +18,7 @@ Books I have read over the years, grouped by year.
 5. [Moral Ambition: Stop wasting your talent and do something that matters](https://www.amazon.com/Moral-Ambition-Rutger-Bregman/dp/1035048259)
 6. [Breakneck: China's Quest to Engineer the Future](https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/132402157X)
 7. [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472)
-8. [Les Misérables](https://www.amazon.com/Les-Mis%C3%A9rables-Signet-Classics-Victor/dp/0451531647)
+8. [Les Misérables](https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood)
 
 ---
 
