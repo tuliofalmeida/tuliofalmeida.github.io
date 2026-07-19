@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Reading List & Book Recommendations"
+title: "Reading List"
 header:
   overlay_image: reading_banner.jpg
   overlay_filter: 0.3
-excerpt: "My reading list and book recommendations. Grouped by year, featuring classics, history, and computational neuroscience books."
+excerpt: "My reading list, grouped by year."
 permalink: /reading-list/
 author_profile: true
 ---
