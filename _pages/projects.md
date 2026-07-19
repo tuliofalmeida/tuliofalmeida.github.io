@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-excerpt: "Research projects by Túlio Almeida. Focuses on sleep dynamics, REM sleep and memory consolidation, Wilson-Cowan neural mass models, and animal behavior libraries."
+excerpt: "My research projects. Focuses on sleep dynamics, REM sleep and memory consolidation, Wilson-Cowan neural mass models, and animal behavior libraries."
 layout: collection
 header:
   overlay_image: neuroscience_banner.jpg

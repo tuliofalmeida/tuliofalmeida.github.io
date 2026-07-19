@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Reading List"
+title: "Reading List & Book Recommendations"
 header:
   overlay_image: reading_banner.jpg
   overlay_filter: 0.3
-excerpt: "Reading list and book recommendations by Túlio Almeida. Grouped by year, featuring classics, history, and computational neuroscience books."
+excerpt: "My reading list and book recommendations. Grouped by year, featuring classics, history, and computational neuroscience books."
 permalink: /reading-list/
 author_profile: true
 ---
